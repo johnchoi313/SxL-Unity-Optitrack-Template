@@ -360,6 +360,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3798361029752001700, guid: 9a32d482689653847b22155fb3096f79, type: 3}
+      propertyPath: DrawMarkers
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3798361029752001700, guid: 9a32d482689653847b22155fb3096f79, type: 3}
+      propertyPath: ConnectionType
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
